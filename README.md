@@ -1,6 +1,5 @@
 # vueTestApp
 
-rename 'env.env.example' => '.env'
 
 run termainal commands
 
