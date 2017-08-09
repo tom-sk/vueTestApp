@@ -1,7 +1,8 @@
 # vueTestApp
 
+run termainal commands
 
-1. run npm install
+1. npm install
 
 2. composer install
 
